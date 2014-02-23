@@ -1,4 +1,4 @@
-Magic The Gathering Draft Engine
+Magic The Gathering tournament classes
 =============
 Three classes representing:
  - An 8 person draft, including AI with customizable strategies
