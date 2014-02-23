@@ -1,4 +1,4 @@
-Magic The Gathering tournament classes
+Magic The Gathering draft classes
 =============
 Three classes representing:
  - An 8 person draft, including AI with customizable strategies
